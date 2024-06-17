@@ -1,0 +1,17 @@
+.sidebar{
+  min-height: 735px;
+}
+.createpost{
+  width: 80%;
+  /* min-height: 526px; */
+}
+.postList{
+  min-height: 502px;
+  margin: 0px 0px 26px 25px;
+}
+.post-card{
+  margin-top: 25px;
+}
+/* .posts{
+  min-width: 20px;
+} */
